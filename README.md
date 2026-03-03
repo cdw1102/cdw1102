@@ -1,16 +1,20 @@
-## Hi there 👋
+# Christopher Walker
 
-<!--
-**cdw1102/cdw1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity & IT Professional  
+Master’s in Computer Science  
+CompTIA Security+ (April 2026)
 
-Here are some ideas to get you started:
+## Technical Skills
+- Python
+- Linux
+- Wireshark
+- Network Security
+- Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- [Cybersecurity Projects Portfolio](https://github.com/cdw1102/cybersecurity-projects)
+
+## Currently Working On
+- Expanding cybersecurity lab projects
+- Building hands-on network traffic analysis
+- Preparing for Security+
